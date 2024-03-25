@@ -26,7 +26,8 @@ src="https://img.shields.io/github/followers/g0ldsand01?logo=github&style=for-th
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/g0ldsand"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="g0ldsand" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=g0ldsand01&show_icons=true&locale=en&layout=compact" alt="g0ldsand01" /></p>
+<p></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=g0ldsand01&show_icons=true&locale=en&layout=compact" alt="g0ldsand01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g0ldsand01&show_icons=true&locale=en" alt="g0ldsand01" /></p>
