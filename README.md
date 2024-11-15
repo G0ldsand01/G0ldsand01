@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================
 
 * 🌍  I'm based in Canada
-* 🖥️  See my portfolio at [my website](http://g0ldsand01.github.io/goldsand-s-house/index.html)
+* 🖥️  See my portfolio at [my website]
 * ✉️  You can contact me at [mathieugoulet8@gmail.com](mailto:mathieugoulet8@gmail.com)
 * 🚀  I'm currently working on [Getting better at coding](https://3mfa.vercel.app)
 * 🧠  I'm learning HTML and CSS
