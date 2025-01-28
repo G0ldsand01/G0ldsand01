@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [my website]
 * ✉️  You can contact me at [mathieugoulet8@gmail.com](mailto:mathieugoulet8@gmail.com)
 * 🚀  I'm currently working on [Getting better at coding](https://3mfa.vercel.app)
-* 🧠  I'm learning HTML and CSS
+* 🧠  I'm learning HTML,JS,Python,C#,C++ and CSS
 
 <a href="https://www.github.com/g0ldsand01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/g0ldsand01?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a><a href="https://www.twitch.tv/just_goldsand" target="_blank" rel="noreferrer"><img
