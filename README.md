@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [mathieugoulet8@gmail.com](mailto:mathieugoulet8@gmail.com)
-* 🚀  I'm currently working on [CMK2-0](https://github.com/G0ldsand01/CMK-2.0)
+* 🚀  I'm currently working on [CMK2-0](https://github.com/G0ldsand01/CMK-2.0) [Take a look at the result here](cmk-2-0-tau.vercel.app)
 * 🧠  I'm learning HTML,JS,Python,C#,C++ and CSS,Astro
 
 ## 🌐 Socials:
